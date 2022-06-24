@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonmalves" alt="andersonmalves" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development Full-Stack at Trybe.**
-
 - 💬 Ask me about **JavaScript, NodeJS, ReactJS, Express.js, Jest, JWT.**
 
 - 📫 How to reach me **contatodeanderson@gmail.com**
