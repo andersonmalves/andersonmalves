@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Anderson Alves 🖖👨‍💻</h1>
-<!-- h3 align="center">Formado em Análise e Desenvolvimento de Sistemas pela Universidade Jorge Amado (UNIJORGE) e atualmente estudando Desenvolvimento Web Full-Stack.</h3 -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonmalves" alt="andersonmalves" /></a> </p>
 
 - 💬 Ask me about **JavaScript, NodeJS, ReactJS, Express.js, Jest, JWT.**
 
