@@ -30,3 +30,7 @@ class About extends Me {
 
 
 > <i>“Seja curioso. Leia muito. Experimente coisas novas. Eu acho que muito do que as pessoas chamam de inteligência apenas se resume a curiosidade.”</i> - Aaron Swartz 
+
+<!-- p align="center">
+  <a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/linkedin.svg" height="20" width="20" /></a>
+</p -->
