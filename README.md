@@ -22,10 +22,17 @@ class About extends Me {
 -->
 
 ```java
-public class Anderson implements Dev {
+public class Anderson extends Dev {
+  private final Map<String, Set<String>> mySkills = Map.of(
+    "ProgramingLanguages", Set.of("Java", "Javascript"),
+    "OtherLanguages", Set.of("HTML", "CSS", "Bash", "Json", "Markdown"),
+    "Database", Set.of("MySQL", "MongoDB"),
+    "Editors", Set.of("IntelliJ", "Vscode", "Sublime"),
+    "Platforms", Set.of("GNU/Linux", "Windows"),
+    "OtherTools", Set.of("Git")
+  );
+}
 
-
-} 
 ```
 
 <details>
