@@ -20,7 +20,7 @@ class About extends Me {
 ```
 
 <details>
-<summary>Estatísticas do meu Github</summary>
+<summary>Algumas das minhas estatísticas públicas do Github</summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonmalves&show_icons=true&locale=en&layout=compact" alt="andersonmalves" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonmalves&show_icons=true&locale=en" alt="andersonmalves" /></p>
