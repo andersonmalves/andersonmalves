@@ -1,4 +1,4 @@
-### `Olá, me chamo Anderson Alves. Mas você pode me chamar de And`
+### `Olá, me chamo Anderson Alves.`
 
 Sou amante de tecnologia e desenvolvedor de software, com experiência em Java, JS e React. Estou sempre buscando aprender mais sobre as últimas novidades e ferramentas, pois acredito que a educação contínua é a chave para o sucesso.
 Estou pronto para contribuir em projetos divertidos e desafiadores com a minha paixão por tecnologia e habilidades de programação.
