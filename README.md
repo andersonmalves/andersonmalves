@@ -1,7 +1,7 @@
 ### `Olá, eu sou Anderson`
 
-Sou amante de tecnologia e desenvolvedor de software, com experiência em Java, JS e React. Estou sempre buscando aprender mais sobre as últimas novidades e ferramentas, pois acredito que a educação contínua é a chave para o sucesso.
-Estou pronto para contribuir em projetos divertidos e desafiadores com a minha paixão por tecnologia e habilidades de programação.
+Sou entusiasta de tecnologia e desenvolvedor de software, com experiência em Java, JS e React. Estou sempre buscando aprender mais sobre as últimas novidades e ferramentas, pois acredito que a educação contínua é a chave para o sucesso.
+Estou pronto para contribuir em projetos divertidos e desafiadores com o meu interesse em tecnologia e habilidades de programação.
 
 ```java
 public class Anderson extends Dev {
