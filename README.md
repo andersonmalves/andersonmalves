@@ -35,8 +35,8 @@ Mercado Livre         :active,, 2022-09-01,2023-05-30
 <details>
 <summary>Formação Acadêmica</summary>
 
-<p> Análise e Desenvolvimento de Sistemas - Unijorge (2018 - 2021)</p>
-<p> Engenharia de Software - Anhanguera (em andamento)</p>
+<p> 🎓 Análise e Desenvolvimento de Sistemas - Unijorge (2018 - 2021)</p>
+<p> 🎓 Engenharia de Software - Anhanguera (em andamento)</p>
 
 </details>
 
