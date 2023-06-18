@@ -6,15 +6,14 @@ Estou pronto para contribuir em projetos divertidos e desafiadores com o meu ent
 ```java
 public class Anderson extends Dev {
   private final Map<String, Set<String>> mySkills = Map.of(
-    "ProgramingLanguages", Set.of("Java", "Javascript"),
-    "OtherLanguages", Set.of("HTML", "CSS", "Bash", "Json", "Markdown"),
-    "Database", Set.of("MySQL", "MongoDB"),
-    "Editors", Set.of("IntelliJ", "Vscode", "Sublime"),
-    "Platforms", Set.of("GNU/Linux", "Windows"),
-    "OtherTools", Set.of("Git")
+    "ProgramingLanguages", Set.of("Java", "JavaScript"),
+	"Tools", Set.of("Spring Boot", "Node.js", "Express", "React"),
+    "OtherLanguages", Set.of("HTML", "CSS", "Bash"),
+	"OtherTools", Set.of("Git", "Docker"),
+	"Database", Set.of("MySQL", "MongoDB"),
+	"Architecture", Set.of("microservices", "MVC", "REST")
   );
 }
-
 ```
 
 <details>
