@@ -7,11 +7,11 @@ Estou pronto para contribuir em projetos divertidos e desafiadores com o meu ent
 public class Anderson extends Dev {
   private final Map<String, Set<String>> mySkills = Map.of(
     "ProgramingLanguages", Set.of("Java", "JavaScript"),
-	"Tools", Set.of("Spring Boot", "Node.js", "Express", "React"),
+    "Tools", Set.of("Spring Boot", "Node.js", "Express", "React"),
     "OtherLanguages", Set.of("HTML", "CSS", "Bash"),
-	"OtherTools", Set.of("Git", "Docker"),
-	"Database", Set.of("MySQL", "MongoDB"),
-	"Architecture", Set.of("microservices", "MVC", "REST")
+    "OtherTools", Set.of("Git", "Docker"),
+    "Database", Set.of("MySQL", "MongoDB"),
+    "Architecture", Set.of("microservices", "MVC", "REST")
   );
 }
 ```
