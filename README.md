@@ -26,7 +26,7 @@ title Experiência Profissional
 
 section Carreira
 Trybe                 :active,, 2021-08-01,2022-09-01
-Mercado Livre         :active,, 2022-09-01,2023-06-30
+Mercado Livre         :active,, 2022-09-01,2023-12-31
 ```
 
 </details>
@@ -35,7 +35,7 @@ Mercado Livre         :active,, 2022-09-01,2023-06-30
 <summary>Formação Acadêmica</summary>
 
 <p> 🎓 Análise e Desenvolvimento de Sistemas - Unijorge (2018 - 2021)</p>
-<p> 🎓 Engenharia de Software - Anhanguera (em andamento)</p>
+<p> 🎓 Engenharia de Software - Anhanguera (2023)</p>
 
 </details>
 
