@@ -26,7 +26,7 @@ title Experiência Profissional
 
 section Carreira
 Trybe                 :active,, 2021-08-01,2022-09-01
-Mercado Livre         :active,, 2022-09-01,2024-03-31
+Mercado Livre         :active,, 2022-09-01,2024-06-30
 ```
 
 </details>
