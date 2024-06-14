@@ -1,12 +1,12 @@
 ### `Olá, eu sou Anderson`
 
-Tenho um grande interesse por tecnologia e sou um desenvolvedor de software, com experiência em Java, JS e React. Estou sempre buscando aprender mais sobre as últimas novidades e ferramentas, pois acredito que a educação contínua é a chave para o sucesso.
+Tenho um grande interesse por tecnologia e sou um desenvolvedor de software, com experiência em Kotlin, Java e JavaScript. Estou sempre buscando aprender mais sobre as últimas novidades e ferramentas, pois acredito que a educação contínua é a chave para o sucesso.
 Estou pronto para contribuir em projetos divertidos e desafiadores com o meu entusiasmo por tecnologia e habilidades de programação.
 
 ```java
 public class Anderson extends Dev {
   private final Map<String, Set<String>> mySkills = Map.of(
-    "ProgramingLanguages", Set.of("Java", "JavaScript"),
+    "ProgramingLanguages", Set.of("Kotlin", "Java", "JavaScript"),
     "Tools", Set.of("Spring Boot", "Node.js", "Express", "React"),
     "OtherLanguages", Set.of("HTML", "CSS", "Bash"),
     "OtherTools", Set.of("Git", "Docker"),
