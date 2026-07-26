@@ -2,22 +2,14 @@
 
 Software Engineer at Mercado Livre, based in Brazil.
 
-I build backend systems and developer tools with Kotlin, Java and JavaScript. I care about reliable services, clear architecture and pragmatic engineering.
-
-## Selected work
-
-### [Cyber Maze v2](https://github.com/andersonmalves/hacker-quiz)
-
-An educational browser game combining procedural mazes, 2D/2.5D raycasting, software-engineering quizzes and accessibility support.
-
-[View the source](https://github.com/andersonmalves/hacker-quiz) · [Play online](https://hacker-quiz.vercel.app)
+I design backend systems and developer tools with Kotlin, Java and TypeScript, with a focus on reliable services, clear architecture and pragmatic engineering.
 
 ## Current interests
 
 - Backend and distributed systems
 - Kotlin and the JVM ecosystem
-- Software architecture
-- Developer tooling and applied AI
+- Software architecture and platform engineering
+- Developer tooling, spec-driven development and applied AI
 
 ## Connect
 
